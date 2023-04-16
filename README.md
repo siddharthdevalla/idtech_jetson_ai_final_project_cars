@@ -7,3 +7,5 @@ After setting up the camera, the variables must be made for each one of the cars
 A data collection tool will be made after the categories of the variables is established.
 After the collection widget, a neural network will be defined to give the needed results for the project. 
 Lastly, after that the interactive tool will need to be ran so that the training of the photos can begin. 
+
+https://youtu.be/-1RVqjw4ryU
